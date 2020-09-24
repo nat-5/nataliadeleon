@@ -1,0 +1,55 @@
+{
+    
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.caja1{
+   
+    width: 280px;
+    height: 460px;
+    background-color:;
+    margin: auto;
+    margin-top: 200px;
+    
+    position:relative;
+    
+    
+}
+    
+.letra h1{
+    
+    font-size: 20px;
+    font-family: monospace;
+    color: white;
+    position: absolute;
+    left: 60px;
+    top: 200px;
+    
+}
+
+
+.imagen{
+    
+    width: 280px;
+    height: 460px;
+    margin: auto;
+    border: 4px;
+    border-color: black;
+}
+    
+.margen{
+    
+    width: 240px;
+    height: 430px;
+    background-color: ;
+    position: absolute;
+    bottom: 13px;
+    left: 17px;
+    
+    border: 3px solid white;
+     
+    
+}
